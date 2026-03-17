@@ -231,7 +231,7 @@ Ensure Render service has:
 
 ---
 
-### **Designed & Developed by Ramlal Kumawat**
+### **Designed & Developed by Amit Kumar Yadav**
 
-[![Instagram](https://img.shields.io/badge/Instagram-@_ramlal__kumawat-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ramlal__kumawat/)
-[![Trimly Ecosystem](https://img.shields.io/badge/Back_to-Trimly_Root-111827?style=for-the-badge&logo=github&logoColor=white)](../README.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-yadav-52a56529a/)
+[![GitHub](https://img.shields.io/badge/GitHub-amitkumaryadav2672-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkumaryadav2672)
